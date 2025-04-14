@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+    font-family: Outfit;
+    background-color: #f3f7f9;
+    
+  }
+
+.hero-bg{
+  background-image: url('/background_img.svg');
+}
